@@ -13,6 +13,82 @@
 - 
 
 ### Day 3 (2023-01-06)
+#### Toolbelt
+  - editor.p5js.org
+#### Loops
+```javascript
+// Loop
+
+const step = 20;
+
+function setup() {
+  createCanvas(400, 400);
+  background("lightpink")
+  for (let loopVar = 0; loopVar < width; loopVar = loopVar + step) {
+    square(loopVar, loopVar, step);
+    // ellipse(loopVar, step, step);
+    // ellipse(step, loopVar, step);
+  }
+}
+
+function draw() {}
+```
+#### Random
+```javascript
+function setup() {
+  createCanvas(400, 400);
+  frameRate(5);
+  // colorMode(HSB);
+}
+
+function draw() {
+  background(random(255));
+  // background(random(255), 255, 255);
+}
+```
+#### Nested loop with random
+```javascript
+// Nested Loop With Random
+
+function setup() {
+  createCanvas(400, 400);
+  frameRate(5);
+}
+
+const step = 10;
+
+function draw() {
+  let x = 0, y = 0;
+  background(220);
+  for( let v = 0; v < height; v = v + step ) {
+    y = v + random(0, 10);
+    for(let h=0; h < width; h = h + step ) {
+      x = h + random(0, 10);
+      ellipse(x, y, 5); 
+    }
+  }
+}
+```
+#### Function
+```javascript
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background(220);
+  drawEgg(100,100);
+  // drawEgg(random(width),random(height));
+}
+
+function drawEgg(x, y) {
+  fill("white");
+  ellipse(x, y, 100, 80);
+  fill("yellow");
+  ellipse(x-10, y-5, 30, 30);
+}
+```
+
 
 ---
 
@@ -21,8 +97,12 @@
 - Introduction Slides: *link goes here*
 
 ### Day 2 (2023-01-05)
+- Toolbelt:
+  - VS Code
+  - GitHub
+  - Glitch
 
-### Day 3
+> Internet issues caused issues downloading above tools... 
 
 ---
 
