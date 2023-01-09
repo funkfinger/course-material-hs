@@ -127,9 +127,14 @@ void draw(){
 > Internet issues caused issues downloading above tools... 
 
 ### Day 3 (2023-01-09)
-- Thoughtful content
+- Thoughtful content - [What's an Algorithm](https://youtu.be/6hfOvs8pY1k)
 - Finish toolbelt installs
 - Discuss projects individually
+
+### Day 4 ()
+- Thoughtful content - Patrog
+- Go over objects
+
 
 ---
 
@@ -174,10 +179,18 @@ void draw(){
 - Discuss individual projects with each student
 
 ### Day 3 (2023-01-09)
-- Thoughtful content...
-- Teenage Engineering POM-400 - [Modular Operator pt. 1 - Your First Patch - Teenage Engineering POM 170 and POM 400](https://youtu.be/pdcR8qlrwR8)
+- Thoughtful content... 
+    - Nick - [fusion reactor startup sound](https://youtu.be/yRdkSxiS8ls)
+    - Ridge - [How to Write Drum parts](https://youtu.be/FoMmVlAvjmM)
 - Project work time
 - Discuss individual projects with each student
+
+### Day 4 ()
+- Thoughtful content
+    - Logan -
+    - Dylan - 
+- Teenage Engineering POM-400 - [Modular Operator pt. 1 - Your First Patch - Teenage Engineering POM 170 and POM 400](https://youtu.be/pdcR8qlrwR8)
+
 
 ---
 edit this doc on [Dillinger.io](https://dillinger.io) and save to [GitHub](https://github.com)
