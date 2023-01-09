@@ -153,6 +153,7 @@ void draw(){
 
 ### Day 4 (2023-01-09)
 - Thoughtful content...
+  - [J Dilla](https://www.youtube.com/watch?v=SENzTt3ftiU)
 - BPM
   - [BPM calculator](https://toolstud.io/music/bpm.php?bpm=120&bpm_unit=4%2F4)
   - [tap BPM finder](https://www.beatsperminuteonline.com)
