@@ -10,7 +10,6 @@
 - Explore p5.js examples inside the p5 editor - [editor.p5js.org](https://editor.p5js.org/)
 
 ### Day 2 (2023-01-04)
-- 
 
 ### Day 3 (2023-01-06)
 #### Toolbelt
@@ -89,6 +88,28 @@ function drawEgg(x, y) {
 }
 ```
 
+### Day 4 (2023-01-10)
+- Thoughtful content
+
+#### Conditionals & Booleans
+```javascript
+void setup(){
+  size(400,400);
+}
+
+void draw(){
+  if(mouseX <= width/2){
+    background(255);
+  }
+  else {
+    background(0);
+  }
+  fill(255,0,0);
+  ellipse(mouseX,mouseY,50,50);
+}
+```
+
+
 
 ---
 
@@ -97,12 +118,18 @@ function drawEgg(x, y) {
 - Introduction Slides: *link goes here*
 
 ### Day 2 (2023-01-05)
+- Thoughtful content - choosing a pallete 
 - Toolbelt:
   - VS Code
   - GitHub
   - Glitch
 
 > Internet issues caused issues downloading above tools... 
+
+### Day 3 (2023-01-09)
+- Thoughtful content
+- Finish toolbelt installs
+- Discuss projects individually
 
 ---
 
@@ -115,9 +142,13 @@ function drawEgg(x, y) {
 - What is sound slides - [link goes here]()
   - also see this https://docs.google.com/presentation/d/1pOHfV9QXbs_UeKcLC3XYw0TXikO6c9sZiUBQQkSNA1I/edit?usp=sharing
 - AI & autotune in music - [How Auto-Tune DESTROYED Popular Music](https://youtu.be/6IV29YNTH3M)
+- Audacity
 
 ### Day 3 (2023-01-06)
-- Timbaland techniques - [3 Techniques Timbaland Uses In His Beats](https://www.youtube.com/watch?v=CiHc05Izy8U&t=1s)
+- Thoughtful content - Timbaland techniques - [3 Techniques Timbaland Uses In His Beats](https://www.youtube.com/watch?v=CiHc05Izy8U&t=1s)
+- Samples to beats part 1
+
+
 
 ---
 
@@ -125,11 +156,15 @@ function drawEgg(x, y) {
 ### Day 1 (2023-01-04)
 - Introduction Slides: *link goes here*
 - Elf - [Elf recut as a Thriller - Trailer Mix](https://www.youtube.com/watch?v=EkwdYSn3Uws)
+- Discuss individual projects with all students
+
 
 ### Day 2 (2023-01-05)
 - AI & autotune in music - [How Auto-Tune DESTROYED Popular Music](https://youtu.be/6IV29YNTH3M)
 - Discuss individual projects with all students
 
 ### Day 3
+- Thoughtful content...
+- Teenage Engineering POM-400 - [https://youtu.be/pdcR8qlrwR8](Modular Operator pt. 1 - Your First Patch - Teenage Engineering POM 170 and POM 400)
 
 
