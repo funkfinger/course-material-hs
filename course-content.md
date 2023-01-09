@@ -146,9 +146,18 @@ void draw(){
 
 ### Day 3 (2023-01-06)
 - Thoughtful content - Timbaland techniques - [3 Techniques Timbaland Uses In His Beats](https://www.youtube.com/watch?v=CiHc05Izy8U&t=1s)
-- Samples to beats part 1
+- Samples to beats part 1 - field recording of samples
+- Build beat in Audacity
+ 
+> Audacity was older version - needed updating. Also FFMPEG libraries needed to be installed in order to get audio from phones to computer.
 
-
+### Day 4 (2023-01-09)
+- Thoughtful content...
+- BPM
+  - [BPM calculator](https://toolstud.io/music/bpm.php?bpm=120&bpm_unit=4%2F4)
+  - [tap BPM finder](https://www.beatsperminuteonline.com)
+- [Beat map clapping](https://shedthemusic.com/beat-map-reading)
+- Anatomy of drum loop - [](https://shedthemusic.com/anatomy-of-a-drum-beat-1)
 
 ---
 
@@ -161,10 +170,14 @@ void draw(){
 
 ### Day 2 (2023-01-05)
 - AI & autotune in music - [How Auto-Tune DESTROYED Popular Music](https://youtu.be/6IV29YNTH3M)
-- Discuss individual projects with all students
+- Discuss individual projects with each student
 
-### Day 3
+### Day 3 (2023-01-09)
 - Thoughtful content...
-- Teenage Engineering POM-400 - [https://youtu.be/pdcR8qlrwR8](Modular Operator pt. 1 - Your First Patch - Teenage Engineering POM 170 and POM 400)
+- Teenage Engineering POM-400 - [Modular Operator pt. 1 - Your First Patch - Teenage Engineering POM 170 and POM 400](https://youtu.be/pdcR8qlrwR8)
+- Project work time
+- Discuss individual projects with each student
 
+---
+edit this doc on [Dillinger.io](https://dillinger.io) and save to [GitHub](https://github.com)
 
