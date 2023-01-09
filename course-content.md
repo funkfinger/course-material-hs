@@ -32,6 +32,8 @@
 - Elf - [Elf recut as a Thriller - Trailer Mix](https://www.youtube.com/watch?v=EkwdYSn3Uws)
 
 ### Day 2
+- What is sound slides - [link goes here]()
+  - also see this https://docs.google.com/presentation/d/1pOHfV9QXbs_UeKcLC3XYw0TXikO6c9sZiUBQQkSNA1I/edit?usp=sharing
 - AI & autotune in music - [How Auto-Tune DESTROYED Popular Music](https://youtu.be/6IV29YNTH3M)
 
 ### Day 3 (2023-01-06)
