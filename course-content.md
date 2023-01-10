@@ -109,9 +109,116 @@ void draw(){
 }
 ```
 
+#### Arrays
+
+Simple example:
+
+```javascript
+const squares = [];
+
+function setup() {
+  createCanvas(400, 400);
+  squares.push(10);
+  squares.push(30);
+  squares.push(40);
+  squares.push(70);
+  console.log(squares);
+}
+
+function draw() {
+  background(220);
+  square(squares[0], 20, 10);
+  square(squares[1], 20, 10);
+  square(squares[2], 20, 10);
+  square(squares[3], 20, 10);
+}
+```
+
+Looping over an array:
+```javascript
+const squares = [];
+
+function setup() {
+  createCanvas(400, 400);
+  squares.push(10);
+  squares.push(30);
+  squares.push(40);
+  squares.push(70);
+  console.log(squares);
+}
+
+function draw() {
+  background(220);
+  
+  for(let foo = 0; foo < squares.length; foo++ ) {
+    square(squares[foo], 20, 10);
+  }
+  
+}
+```
+Multi-dimensional arrays:
+```javascript
+const squares = [];
+
+function setup() {
+  createCanvas(400, 400);
+  squares.push([10, 30, 100]);
+  squares.push([30, 200, 30]);
+  squares.push([40, 300, 90]);
+  squares.push([70, 100, 10]);
+  console.log(squares);
+}
+
+function draw() {
+  background(220);
+  
+  for(let foo = 0; foo < squares.length; foo++ ) {
+    square(squares[foo][0], squares[foo][1], squares[foo][2]);
+  }
+  
+}
+```
+
+Making the array with a loop:
+```javascript
+const squares = [];
+
+function setup() {
+  createCanvas(1000, 1000);
+  for(x=0; x < 100; x++) {
+    for(y=0; y < 100; y++) {
+      squares.push([x*10,y*10,random(20)]);
+    }
+  }
+  
+}
+
+function draw() {
+  background(220);
+  
+  for(let foo = 0; foo < squares.length; foo++ ) {
+    square(squares[foo][0], squares[foo][1], squares[foo][2]);
+  }
+  
+}
+```
 
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Coding as Art 2/3
 ### Day 1 (2023-01-03)
@@ -134,9 +241,27 @@ void draw(){
 ### Day 4 ()
 - Thoughtful content - Patrog
 - Go over objects
+- Discuss projects individually
+  - Talk about size and due date (critique) and actual due date
 
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Sound Design 1
 ### Day 1 (2023-01-04)
@@ -166,6 +291,23 @@ void draw(){
 - Anatomy of drum loop - [](https://shedthemusic.com/anatomy-of-a-drum-beat-1)
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Sound Design 2/3
 ### Day 1 (2023-01-04)
