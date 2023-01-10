@@ -203,6 +203,62 @@ function draw() {
 }
 ```
 
+### Day 5 ()
+- Thoughtful content
+
+Chessboard example:
+```javascript
+function setup() {
+  createCanvas(1000, 1000);
+
+  let s = 100;
+  let isWhite = false;
+  let fillColor = 255;
+  
+  background(220);
+  
+  for (let x = 0; x < height; x = x + s) {
+    isWhite = !isWhite;
+    for (let y = 0; y < width; y = y + s) {
+      isWhite = !isWhite;
+      if(isWhite) {
+        fillColor = 255;
+      }
+      else {
+        fillColor = 0;
+      }
+      fill(fillColor);
+      square(x, y, s);
+      // console.log("x: ", x, "y: ", y, "fillColor: ", fillColor);
+    }
+  }
+}
+```
+Another way to color the spaces...
+```javascript
+function setup() {
+  createCanvas(1000, 1000);
+
+  let s = 100;
+  let fillColor = -255;
+  
+  background(220);
+  
+  for (let x = 0; x < height; x = x + s) {
+    fillColor = fillColor * -1;
+    for (let y = 0; y < width; y = y + s) {
+      fillColor = fillColor * -1;
+      fill(fillColor);
+      square(x, y, s);
+      // console.log("x: ", x, "y: ", y, "fillColor: ", fillColor);
+    }
+  }
+}
+
+```
+Obects!
+
+
 
 ---
 
@@ -327,11 +383,22 @@ function draw() {
 - Project work time
 - Discuss individual projects with each student
 
-### Day 4 ()
+### Day 4 (2023-01-11)
 - Thoughtful content
     - Logan -
     - Dylan - 
+- Talk about projects due dates and critiques
+    - First project - what we've already been talking about
+        - critique
+        - 
 - Teenage Engineering POM-400 - [Modular Operator pt. 1 - Your First Patch - Teenage Engineering POM 170 and POM 400](https://youtu.be/pdcR8qlrwR8)
+- DJ mixing
+    - BPM, bars, measures, etc...
+    - intros and outros
+
+### Day 5 ()
+- Thoughful content
+- Critiques - what are they? How do they work? Critique something I make... (need to make something)
 
 
 ---
