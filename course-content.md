@@ -3,15 +3,15 @@
 - take roll
 
 ## Coding as Art 1
-### Day 1 (2023-01-03)
+### Day 1 (2023-01-03)✅
 - Introduction slides: *link goes here*
 - Generative Art Speedrun - [Tim Holman - Generative Art Speedrun](https://www.youtube.com/watch?v=4Se0_w0ISYk)
 - Introduction to p5.js - [p5.js](https://p5js.org/get-started/)
 - Explore p5.js examples inside the p5 editor - [editor.p5js.org](https://editor.p5js.org/)
 
-### Day 2 (2023-01-04)
+### Day 2 (2023-01-04)✅
 
-### Day 3 (2023-01-06)
+### Day 3 (2023-01-06)✅
 #### Toolbelt
   - editor.p5js.org
 #### Loops
@@ -88,7 +88,7 @@ function drawEgg(x, y) {
 }
 ```
 
-### Day 4 (2023-01-10)
+### Day 4 (2023-01-10)✅
 - Thoughtful content
 
 #### Conditionals & Booleans
@@ -277,10 +277,10 @@ Obects!
 
 
 ## Coding as Art 2/3
-### Day 1 (2023-01-03)
+### Day 1 (2023-01-03)✅
 - Introduction Slides: *link goes here*
 
-### Day 2 (2023-01-05)
+### Day 2 (2023-01-05)✅
 - Thoughtful content - choosing a pallete 
 - Toolbelt:
   - VS Code
@@ -289,7 +289,7 @@ Obects!
 
 > Internet issues caused issues downloading above tools... 
 
-### Day 3 (2023-01-09)
+### Day 3 (2023-01-09)✅
 - Thoughtful content - [What's an Algorithm](https://youtu.be/6hfOvs8pY1k)
 - Finish toolbelt installs
 - Discuss projects individually
@@ -321,24 +321,24 @@ Obects!
 
 
 ## Sound Design 1
-### Day 1 (2023-01-04)
+### Day 1 (2023-01-04)✅
 - Introduction Slides: *link goes here*
 - Elf - [Elf recut as a Thriller - Trailer Mix](https://www.youtube.com/watch?v=EkwdYSn3Uws)
 
-### Day 2
+### Day 2✅
 - What is sound slides - [link goes here]()
   - also see this https://docs.google.com/presentation/d/1pOHfV9QXbs_UeKcLC3XYw0TXikO6c9sZiUBQQkSNA1I/edit?usp=sharing
 - AI & autotune in music - [How Auto-Tune DESTROYED Popular Music](https://youtu.be/6IV29YNTH3M)
 - Audacity
 
-### Day 3 (2023-01-06)
+### Day 3 (2023-01-06)✅
 - Thoughtful content - Timbaland techniques - [3 Techniques Timbaland Uses In His Beats](https://www.youtube.com/watch?v=CiHc05Izy8U&t=1s)
 - Samples to beats part 1 - field recording of samples
 - Build beat in Audacity
  
 > Audacity was older version - needed updating. Also FFMPEG libraries needed to be installed in order to get audio from phones to computer.
 
-### Day 4 (2023-01-09)
+### Day 4 (2023-01-09)✅
 - Thoughtful content...
     - Baqer - [The sonic boom problem - Katerina Kaouri](https://www.youtube.com/watch?v=JO4_VHM69oI)
     - [J Dilla](https://www.youtube.com/watch?v=SENzTt3ftiU)
@@ -352,6 +352,7 @@ Obects!
 - Thoughtful content...
     - Kather [What Does Sound Look Like? | SKUNK BEAR](https://youtu.be/px3oVGXr4mo)
 - Anatomy of drum loop - [ANATOMY OF A DRUM BEAT](https://shedthemusic.com/anatomy-of-a-drum-beat-1)
+- Critiques - what are they? How do they work? Critique something I make... (need to make something)
 - GarageBand
     - Software Intrument
 
@@ -375,31 +376,29 @@ Obects!
 
 
 ## Sound Design 2/3
-### Day 1 (2023-01-04)
+### Day 1 (2023-01-04)✅
 - Introduction Slides: *link goes here*
 - Elf - [Elf recut as a Thriller - Trailer Mix](https://www.youtube.com/watch?v=EkwdYSn3Uws)
 - Discuss individual projects with all students
 
 
-### Day 2 (2023-01-05)
+### Day 2 (2023-01-05)✅
 - AI & autotune in music - [How Auto-Tune DESTROYED Popular Music](https://youtu.be/6IV29YNTH3M)
 - Discuss individual projects with each student
 
-### Day 3 (2023-01-09)
-- Thoughtful content... 
-    - Nick - [fusion reactor startup sound](https://youtu.be/yRdkSxiS8ls)
-    - Ridge - [How to Write Drum parts](https://youtu.be/FoMmVlAvjmM)
+### Day 3 (2023-01-09)✅
+- Thoughtful content
+    - Nick [Fusion Reactor Startup & Shutdown W/ Sound](https://youtu.be/yRdkSxiS8ls)
+    - Ridge [How to Write Drum Parts (for non drummers)](https://youtu.be/FoMmVlAvjmM)
 - Project work time
 - Discuss individual projects with each student
 
 ### Day 4 (2023-01-11)
 - Thoughtful content
-    - Nick [Fusion Reactor Startup & Shutdown W/ Sound](https://youtu.be/yRdkSxiS8ls)
-    - Ridge [How to Write Drum Parts (for non drummers)](https://youtu.be/FoMmVlAvjmM)
 - Talk about projects due dates and critiques
     - First project - what we've already been talking about
         - critique
-        - 
+- Critiques - what are they? How do they work? Critique something I make... (need to make something)
 - Teenage Engineering POM-400 - [Modular Operator pt. 1 - Your First Patch - Teenage Engineering POM 170 and POM 400](https://youtu.be/pdcR8qlrwR8)
 - DJ mixing
     - BPM, bars, measures, etc...
@@ -407,7 +406,6 @@ Obects!
 
 ### Day 5 ()
 - Thoughful content
-- Critiques - what are they? How do they work? Critique something I make... (need to make something)
 
 
 ---
