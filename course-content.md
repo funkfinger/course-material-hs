@@ -339,7 +339,8 @@ Obects!
 
 ### Day 4 (2023-01-09)
 - Thoughtful content...
-  - [J Dilla](https://www.youtube.com/watch?v=SENzTt3ftiU)
+    - Baqer - [The sonic boom problem - Katerina Kaouri](https://www.youtube.com/watch?v=JO4_VHM69oI)
+    - [J Dilla](https://www.youtube.com/watch?v=SENzTt3ftiU)
 - BPM
   - [BPM calculator](https://toolstud.io/music/bpm.php?bpm=120&bpm_unit=4%2F4)
   - [tap BPM finder](https://www.beatsperminuteonline.com)
@@ -348,7 +349,9 @@ Obects!
  
 ### Day 5 (2023-01-11)
 - Thoughtful content...
-    - 
+    - Kather [What Does Sound Look Like? | SKUNK BEAR](https://youtu.be/px3oVGXr4mo) 
+    - Logan -
+    - Dylan - 
 - Anatomy of drum loop - [ANATOMY OF A DRUM BEAT](https://shedthemusic.com/anatomy-of-a-drum-beat-1)
 - GarageBand
     - Software Intrument
@@ -392,8 +395,8 @@ Obects!
 
 ### Day 4 (2023-01-11)
 - Thoughtful content
-    - Logan -
-    - Dylan - 
+    - Nick [Fusion Reactor Startup & Shutdown W/ Sound](https://youtu.be/yRdkSxiS8ls)
+    - 
 - Talk about projects due dates and critiques
     - First project - what we've already been talking about
         - critique
