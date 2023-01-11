@@ -400,16 +400,18 @@ Obects!
 
 ### Day 4 (2023-01-11)
 - Thoughtful content
+    - Logan - [How Cartoon Sounds Are Made For Movies & TV Shows | Movies Insider | Insider](https://youtu.be/NhKTP5_LfU8)
+    - Dylan - [10 Best Podcast Music Intro Tracks [2021]](https://youtu.be/Z56_H3y7krQ)
 - Talk about projects due dates and critiques
-    - First project - what we've already been talking about
-- Critiques - what are they? How do they work? Critique something I make... (need to make something)
 - Teenage Engineering POM-400 - [Modular Operator pt. 1 - Your First Patch - Teenage Engineering POM 170 and POM 400](https://youtu.be/pdcR8qlrwR8)
+
+### Day 5 (2023-01-13)
+- Thoughful content
+    - Aarush - []()
+- Critiques - what are they? How do they work? Critique something I make... (need to make something)
 - DJ mixing
     - BPM, bars, measures, etc...
     - intros and outros
-
-### Day 5 ()
-- Thoughful content
 
 
 ---
