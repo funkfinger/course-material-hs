@@ -295,12 +295,16 @@ Obects!
 - Finish toolbelt installs
 - Discuss projects individually
 
-### Day 4 ()
-- Thoughtful content - Patrog
-- Coding challenge: make a chess / checker board in editor.p5js.org or Processing
+### Day 4 (2023-01-11)✅
+- Thoughtful content - Patrog [What is ChatGPT and How You Can Use It](https://youtu.be/40Kp_fa8vIw)- Coding challenge: make a chess / checker board in editor.p5js.org or Processing
 - Go over objects
 - Discuss projects individually
   - Talk about size and due date (critique) and actual due date
+
+### Day 5 (2023-01-XX)
+- Thoughful content - Ridge
+- Continue with objects
+- Critique me
 
 
 ---
@@ -398,7 +402,6 @@ Obects!
 - Thoughtful content
 - Talk about projects due dates and critiques
     - First project - what we've already been talking about
-        - critique
 - Critiques - what are they? How do they work? Critique something I make... (need to make something)
 - Teenage Engineering POM-400 - [Modular Operator pt. 1 - Your First Patch - Teenage Engineering POM 170 and POM 400](https://youtu.be/pdcR8qlrwR8)
 - DJ mixing
