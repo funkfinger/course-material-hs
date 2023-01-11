@@ -344,7 +344,14 @@ Obects!
   - [BPM calculator](https://toolstud.io/music/bpm.php?bpm=120&bpm_unit=4%2F4)
   - [tap BPM finder](https://www.beatsperminuteonline.com)
 - [Beat map clapping](https://shedthemusic.com/beat-map-reading)
-- Anatomy of drum loop - [](https://shedthemusic.com/anatomy-of-a-drum-beat-1)
+
+ 
+### Day 5 (2023-01-11)
+- Thoughtful content...
+    - 
+- Anatomy of drum loop - [ANATOMY OF A DRUM BEAT](https://shedthemusic.com/anatomy-of-a-drum-beat-1)
+- GarageBand
+    - Software Intrument
 
 ---
 
