@@ -206,6 +206,7 @@ function draw() {
 ### Day 5 ()
 - Thoughtful content
 
+#### Example of live coding...
 Chessboard example:
 ```javascript
 function setup() {
