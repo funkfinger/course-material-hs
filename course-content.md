@@ -296,6 +296,7 @@ Obects!
 
 ### Day 4 ()
 - Thoughtful content - Patrog
+- Coding challenge: make a chess / checker board in editor.p5js.org or Processing
 - Go over objects
 - Discuss projects individually
   - Talk about size and due date (critique) and actual due date
@@ -349,9 +350,7 @@ Obects!
  
 ### Day 5 (2023-01-11)
 - Thoughtful content...
-    - Kather [What Does Sound Look Like? | SKUNK BEAR](https://youtu.be/px3oVGXr4mo) 
-    - Logan -
-    - Dylan - 
+    - Kather [What Does Sound Look Like? | SKUNK BEAR](https://youtu.be/px3oVGXr4mo)
 - Anatomy of drum loop - [ANATOMY OF A DRUM BEAT](https://shedthemusic.com/anatomy-of-a-drum-beat-1)
 - GarageBand
     - Software Intrument
@@ -396,7 +395,7 @@ Obects!
 ### Day 4 (2023-01-11)
 - Thoughtful content
     - Nick [Fusion Reactor Startup & Shutdown W/ Sound](https://youtu.be/yRdkSxiS8ls)
-    - 
+    - Ridge [How to Write Drum Parts (for non drummers)](https://youtu.be/FoMmVlAvjmM)
 - Talk about projects due dates and critiques
     - First project - what we've already been talking about
         - critique
