@@ -357,9 +357,16 @@ Obects!
 - Thoughtful content...
     - Kather [What Does Sound Look Like? | SKUNK BEAR](https://youtu.be/px3oVGXr4mo)
 - Anatomy of drum loop - [ANATOMY OF A DRUM BEAT](https://shedthemusic.com/anatomy-of-a-drum-beat-1)
-- Critiques - what are they? How do they work? Critique something I make... (need to make something)
 - GarageBand
     - Software Intrument
+
+### Day 5 (2023-01-13)
+- Thoughtful content...
+    - Xavi
+- Critiques - what are they? How do they work? Critique something I make... (need to make something)
+
+
+
 
 ---
 
