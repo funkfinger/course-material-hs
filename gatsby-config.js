@@ -14,7 +14,7 @@ module.exports = {
     {
       resolve: "gatsby-plugin-manifest",
       options: {
-        icon: `./src/images/icon.png`,
+        icon: `${__dirname}/src/images/icon.png`,
       },
     },
     "gatsby-plugin-mdx",
