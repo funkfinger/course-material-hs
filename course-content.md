@@ -203,7 +203,7 @@ function draw() {
 }
 ```
 
-### Day 5 ()
+### Day 5 (2023-01-12)
 - Thoughtful content
 
 #### Example of live coding...
@@ -257,8 +257,58 @@ function setup() {
 }
 
 ```
-Obects!
+##### Objects
 
+Build up to finish the code as below:
+- create the class
+- create a single object - `console.log` the object
+- reference the single object
+    - `w.draw()` & `w.update`
+- make an array and fill it with objects
+- update the array of objects
+- show that they still exist if not on screen - `console.log`
+
+```javascript
+let w;
+const wArray = [];
+
+function setup() {
+  createCanvas(400, 400);
+  for(let x=0; x < 1000; x++) {
+    wArray.push(new Wiggle(random(width), random(height), 10));  
+  }
+}
+
+function draw() {
+  background(220);
+  for(let x=0; x < wArray.length; x++) {
+    wArray[x].update();
+    wArray[x].draw();    
+  }
+  console.log(wArray.length);
+}
+
+class Wiggle {
+  constructor(x, y, d) {
+    this.x = x;
+    this.y = y;
+    this.d = d;
+  }
+  
+  update() {
+    this.x = this.x + random(-2, 2);
+    this.y = this.y + random(-2, 2);
+    this.y = this.y - 2;
+    if(this.y < 0) {
+      this.y = height;
+    }
+  }
+  
+  draw() {
+    circle(this.x, this.y, this.d);
+  }
+}
+```
 
 
 ---
@@ -362,7 +412,7 @@ Obects!
 
 ### Day 5 (2023-01-13)
 - Thoughtful content...
-    - Xavi
+    - Xavi [METRO BOOMIN | Kicks and Basslines](https://youtu.be/7HgV0uyHwt0)
 - Critiques - what are they? How do they work? Critique something I make... (need to make something)
 
 
