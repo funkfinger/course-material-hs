@@ -1,10 +1,14 @@
 # High School Course Content - Day by Day
+
 ## All Courses - EVERY DAY
+
 - take roll
 
 ## Coding as Art 1
+
 ### Day 1 (2023-01-03)✅
-- Introduction slides: *link goes here*
+
+- Introduction slides: _link goes here_
 - Generative Art Speedrun - [Tim Holman - Generative Art Speedrun](https://www.youtube.com/watch?v=4Se0_w0ISYk)
 - Introduction to p5.js - [p5.js](https://p5js.org/get-started/)
 - Explore p5.js examples inside the p5 editor - [editor.p5js.org](https://editor.p5js.org/)
@@ -12,9 +16,13 @@
 ### Day 2 (2023-01-04)✅
 
 ### Day 3 (2023-01-06)✅
+
 #### Toolbelt
-  - editor.p5js.org
+
+- editor.p5js.org
+
 #### Loops
+
 ```javascript
 // Loop
 
@@ -22,7 +30,7 @@ const step = 20;
 
 function setup() {
   createCanvas(400, 400);
-  background("lightpink")
+  background("lightpink");
   for (let loopVar = 0; loopVar < width; loopVar = loopVar + step) {
     square(loopVar, loopVar, step);
     // ellipse(loopVar, step, step);
@@ -32,7 +40,9 @@ function setup() {
 
 function draw() {}
 ```
+
 #### Random
+
 ```javascript
 function setup() {
   createCanvas(400, 400);
@@ -45,7 +55,9 @@ function draw() {
   // background(random(255), 255, 255);
 }
 ```
+
 #### Nested loop with random
+
 ```javascript
 // Nested Loop With Random
 
@@ -57,18 +69,21 @@ function setup() {
 const step = 10;
 
 function draw() {
-  let x = 0, y = 0;
+  let x = 0,
+    y = 0;
   background(220);
-  for( let v = 0; v < height; v = v + step ) {
+  for (let v = 0; v < height; v = v + step) {
     y = v + random(0, 10);
-    for(let h=0; h < width; h = h + step ) {
+    for (let h = 0; h < width; h = h + step) {
       x = h + random(0, 10);
-      ellipse(x, y, 5); 
+      ellipse(x, y, 5);
     }
   }
 }
 ```
+
 #### Function
+
 ```javascript
 function setup() {
   createCanvas(400, 400);
@@ -76,7 +91,7 @@ function setup() {
 
 function draw() {
   background(220);
-  drawEgg(100,100);
+  drawEgg(100, 100);
   // drawEgg(random(width),random(height));
 }
 
@@ -84,14 +99,16 @@ function drawEgg(x, y) {
   fill("white");
   ellipse(x, y, 100, 80);
   fill("yellow");
-  ellipse(x-10, y-5, 30, 30);
+  ellipse(x - 10, y - 5, 30, 30);
 }
 ```
 
 ### Day 4 (2023-01-10)✅
+
 - Thoughtful content
 
 #### Conditionals & Booleans
+
 ```javascript
 void setup(){
   size(400,400);
@@ -135,6 +152,7 @@ function draw() {
 ```
 
 Looping over an array:
+
 ```javascript
 const squares = [];
 
@@ -149,14 +167,15 @@ function setup() {
 
 function draw() {
   background(220);
-  
-  for(let foo = 0; foo < squares.length; foo++ ) {
+
+  for (let foo = 0; foo < squares.length; foo++) {
     square(squares[foo], 20, 10);
   }
-  
 }
 ```
+
 Multi-dimensional arrays:
+
 ```javascript
 const squares = [];
 
@@ -171,43 +190,44 @@ function setup() {
 
 function draw() {
   background(220);
-  
-  for(let foo = 0; foo < squares.length; foo++ ) {
+
+  for (let foo = 0; foo < squares.length; foo++) {
     square(squares[foo][0], squares[foo][1], squares[foo][2]);
   }
-  
 }
 ```
 
 Making the array with a loop:
+
 ```javascript
 const squares = [];
 
 function setup() {
   createCanvas(1000, 1000);
-  for(x=0; x < 100; x++) {
-    for(y=0; y < 100; y++) {
-      squares.push([x*10,y*10,random(20)]);
+  for (x = 0; x < 100; x++) {
+    for (y = 0; y < 100; y++) {
+      squares.push([x * 10, y * 10, random(20)]);
     }
   }
-  
 }
 
 function draw() {
   background(220);
-  
-  for(let foo = 0; foo < squares.length; foo++ ) {
+
+  for (let foo = 0; foo < squares.length; foo++) {
     square(squares[foo][0], squares[foo][1], squares[foo][2]);
   }
-  
 }
 ```
 
 ### Day 5 (2023-01-12)
+
 - Thoughtful content
 
 #### Example of live coding...
+
 Chessboard example:
+
 ```javascript
 function setup() {
   createCanvas(1000, 1000);
@@ -215,17 +235,16 @@ function setup() {
   let s = 100;
   let isWhite = false;
   let fillColor = 255;
-  
+
   background(220);
-  
+
   for (let x = 0; x < height; x = x + s) {
     isWhite = !isWhite;
     for (let y = 0; y < width; y = y + s) {
       isWhite = !isWhite;
-      if(isWhite) {
+      if (isWhite) {
         fillColor = 255;
-      }
-      else {
+      } else {
         fillColor = 0;
       }
       fill(fillColor);
@@ -235,16 +254,18 @@ function setup() {
   }
 }
 ```
+
 Another way to color the spaces...
+
 ```javascript
 function setup() {
   createCanvas(1000, 1000);
 
   let s = 100;
   let fillColor = -255;
-  
+
   background(220);
-  
+
   for (let x = 0; x < height; x = x + s) {
     fillColor = fillColor * -1;
     for (let y = 0; y < width; y = y + s) {
@@ -255,15 +276,16 @@ function setup() {
     }
   }
 }
-
 ```
+
 ##### Objects
 
 Build up to finish the code as below:
+
 - create the class
 - create a single object - `console.log` the object
 - reference the single object
-    - `w.draw()` & `w.update`
+  - `w.draw()` & `w.update`
 - make an array and fill it with objects
 - update the array of objects
 - show that they still exist if not on screen - `console.log`
@@ -274,16 +296,16 @@ const wArray = [];
 
 function setup() {
   createCanvas(400, 400);
-  for(let x=0; x < 1000; x++) {
-    wArray.push(new Wiggle(random(width), random(height), 10));  
+  for (let x = 0; x < 1000; x++) {
+    wArray.push(new Wiggle(random(width), random(height), 10));
   }
 }
 
 function draw() {
   background(220);
-  for(let x=0; x < wArray.length; x++) {
+  for (let x = 0; x < wArray.length; x++) {
     wArray[x].update();
-    wArray[x].draw();    
+    wArray[x].draw();
   }
   console.log(wArray.length);
 }
@@ -294,183 +316,151 @@ class Wiggle {
     this.y = y;
     this.d = d;
   }
-  
+
   update() {
     this.x = this.x + random(-2, 2);
     this.y = this.y + random(-2, 2);
     this.y = this.y - 2;
-    if(this.y < 0) {
+    if (this.y < 0) {
       this.y = height;
     }
   }
-  
+
   draw() {
     circle(this.x, this.y, this.d);
   }
 }
 ```
 
-
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Coding as Art 2/3
+
 ### Day 1 (2023-01-03)✅
-- Introduction Slides: *link goes here*
+
+- Introduction Slides: _link goes here_
 
 ### Day 2 (2023-01-05)✅
-- Thoughtful content - choosing a pallete 
+
+- Thoughtful content - choosing a pallete
 - Toolbelt:
   - VS Code
   - GitHub
   - Glitch
 
-> Internet issues caused issues downloading above tools... 
+> Internet issues caused issues downloading above tools...
 
 ### Day 3 (2023-01-09)✅
+
 - Thoughtful content - [What's an Algorithm](https://youtu.be/6hfOvs8pY1k)
 - Finish toolbelt installs
 - Discuss projects individually
 
 ### Day 4 (2023-01-11)✅
+
 - Thoughtful content - Patrog [What is ChatGPT and How You Can Use It](https://youtu.be/40Kp_fa8vIw)- Coding challenge: make a chess / checker board in editor.p5js.org or Processing
 - Go over objects
 - Discuss projects individually
   - Talk about size and due date (critique) and actual due date
 
-### Day 5 (2023-01-XX)
-- Thoughful content - Ridge
+### Day 5 (2023-01-12)
+
+- Thoughtful content - Ridge [Wintergatan - Marble Machine (music instrument using 2000 marbles)](https://youtu.be/IvUU8joBb1Q)
 - Continue with objects
 - Critique me
 
+### Day 6 ()
+
+- Thoughtful - Oliver
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Sound Design 1
+
 ### Day 1 (2023-01-04)✅
-- Introduction Slides: *link goes here*
+
+- Introduction Slides: _link goes here_
 - Elf - [Elf recut as a Thriller - Trailer Mix](https://www.youtube.com/watch?v=EkwdYSn3Uws)
 
 ### Day 2✅
+
 - What is sound slides - [link goes here]()
   - also see this https://docs.google.com/presentation/d/1pOHfV9QXbs_UeKcLC3XYw0TXikO6c9sZiUBQQkSNA1I/edit?usp=sharing
 - AI & autotune in music - [How Auto-Tune DESTROYED Popular Music](https://youtu.be/6IV29YNTH3M)
 - Audacity
 
 ### Day 3 (2023-01-06)✅
+
 - Thoughtful content - Timbaland techniques - [3 Techniques Timbaland Uses In His Beats](https://www.youtube.com/watch?v=CiHc05Izy8U&t=1s)
 - Samples to beats part 1 - field recording of samples
 - Build beat in Audacity
- 
+
 > Audacity was older version - needed updating. Also FFMPEG libraries needed to be installed in order to get audio from phones to computer.
 
 ### Day 4 (2023-01-09)✅
+
 - Thoughtful content...
-    - Baqer - [The sonic boom problem - Katerina Kaouri](https://www.youtube.com/watch?v=JO4_VHM69oI)
-    - [J Dilla](https://www.youtube.com/watch?v=SENzTt3ftiU)
+  - Baqer - [The sonic boom problem - Katerina Kaouri](https://www.youtube.com/watch?v=JO4_VHM69oI)
+  - [J Dilla](https://www.youtube.com/watch?v=SENzTt3ftiU)
 - BPM
   - [BPM calculator](https://toolstud.io/music/bpm.php?bpm=120&bpm_unit=4%2F4)
   - [tap BPM finder](https://www.beatsperminuteonline.com)
 - [Beat map clapping](https://shedthemusic.com/beat-map-reading)
 
- 
 ### Day 5 (2023-01-11)
+
 - Thoughtful content...
-    - Kather [What Does Sound Look Like? | SKUNK BEAR](https://youtu.be/px3oVGXr4mo)
+  - Kather [What Does Sound Look Like? | SKUNK BEAR](https://youtu.be/px3oVGXr4mo)
 - Anatomy of drum loop - [ANATOMY OF A DRUM BEAT](https://shedthemusic.com/anatomy-of-a-drum-beat-1)
 - GarageBand
-    - Software Intrument
+  - Software Intrument
 
 ### Day 5 (2023-01-13)
+
 - Thoughtful content...
-    - Xavi [METRO BOOMIN | Kicks and Basslines](https://youtu.be/7HgV0uyHwt0)
+  - Xavi [METRO BOOMIN | Kicks and Basslines](https://youtu.be/7HgV0uyHwt0)
 - Critiques - what are they? How do they work? Critique something I make... (need to make something)
-
-
-
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Sound Design 2/3
+
 ### Day 1 (2023-01-04)✅
-- Introduction Slides: *link goes here*
+
+- Introduction Slides: _link goes here_
 - Elf - [Elf recut as a Thriller - Trailer Mix](https://www.youtube.com/watch?v=EkwdYSn3Uws)
 - Discuss individual projects with all students
 
-
 ### Day 2 (2023-01-05)✅
+
 - AI & autotune in music - [How Auto-Tune DESTROYED Popular Music](https://youtu.be/6IV29YNTH3M)
 - Discuss individual projects with each student
 
 ### Day 3 (2023-01-09)✅
+
 - Thoughtful content
-    - Nick [Fusion Reactor Startup & Shutdown W/ Sound](https://youtu.be/yRdkSxiS8ls)
-    - Ridge [How to Write Drum Parts (for non drummers)](https://youtu.be/FoMmVlAvjmM)
+  - Nick [Fusion Reactor Startup & Shutdown W/ Sound](https://youtu.be/yRdkSxiS8ls)
+  - Ridge [How to Write Drum Parts (for non drummers)](https://youtu.be/FoMmVlAvjmM)
 - Project work time
 - Discuss individual projects with each student
 
 ### Day 4 (2023-01-11)
+
 - Thoughtful content
-    - Logan - [How Cartoon Sounds Are Made For Movies & TV Shows | Movies Insider | Insider](https://youtu.be/NhKTP5_LfU8)
-    - Dylan - [10 Best Podcast Music Intro Tracks [2021]](https://youtu.be/Z56_H3y7krQ)
+  - Logan - [How Cartoon Sounds Are Made For Movies & TV Shows | Movies Insider | Insider](https://youtu.be/NhKTP5_LfU8)
+  - Dylan - [10 Best Podcast Music Intro Tracks [2021]](https://youtu.be/Z56_H3y7krQ)
 - Talk about projects due dates and critiques
 - Teenage Engineering POM-400 - [Modular Operator pt. 1 - Your First Patch - Teenage Engineering POM 170 and POM 400](https://youtu.be/pdcR8qlrwR8)
 
 ### Day 5 (2023-01-13)
+
 - Thoughful content
-    - Aarush - []()
+  - Aarush - []()
 - Critiques - what are they? How do they work? Critique something I make... (need to make something)
 - DJ mixing
-    - BPM, bars, measures, etc...
-    - intros and outros
-
+  - BPM, bars, measures, etc...
+  - intros and outros
 
 ---
-edit this doc on [Dillinger.io](https://dillinger.io) and save to [GitHub](https://github.com)
 
+edit this doc on [Dillinger.io](https://dillinger.io) and save to [GitHub](https://github.com)
