@@ -3,7 +3,7 @@ import * as React from "react";
 const IndexPage = () => {
   return (
     <main>
-      <h1>PCDS Coding as Art Information</h1>
+      <h1>High School Materials</h1>
       <ul>
         <li>
           <a href="https://slides.com/funkfinger/coding-as-art-1">
