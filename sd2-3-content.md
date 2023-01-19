@@ -34,11 +34,17 @@
 - Critiques - what are they? How do they work? Critique something I make... (need to make something)
   - critique me
 
-### Day 5 ()
+### Day 6 (2023-01-17)
+
+- Work on personal projects
+
+### Day 7 (2023-01)
 
 - Thoughtful content
-
   - Blake -
+- 1/2 class critique
+
+### Day 8 ()
 
 - DJ mixing
   - BPM, bars, measures, etc...

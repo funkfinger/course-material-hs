@@ -27,15 +27,21 @@
 - Discuss projects individually
   - Talk about size and due date (critique) and actual due date
 
-### Day 5 (2023-01-12)
+### Day 5 (2023-01-12)✅
 
 - Thoughtful content - Ridge [Wintergatan - Marble Machine (music instrument using 2000 marbles)](https://youtu.be/IvUU8joBb1Q)
 - Continue with objects
 - Critique me
 
-### Day 6 ()
+### Day 6 (2023-01-17)
 
 - Thoughtful - Oliver
+- Work on personal projects
+
+### Day 7 (2023-01)
+
+- Thoughtful content - Jack
+-
 
 ---
 

@@ -5,6 +5,7 @@
 - Nathan - project with objects
 - Will - A-Frame VR ideas - create a simple environment
 - Sonia - Animated visual in Processing or p5
+  - move bubbles away from mouse
 - Ridge - learn basic RPG Maker - make a story with RPG Maker - use some self-made sound / sprites
 - Patrog - learn basic RPG Maker - make a story with RPG Maker - use some self-made sound / sprites
 - Oliver - neural network research

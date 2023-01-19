@@ -326,6 +326,20 @@ class Wiggle {
 }
 ```
 
+### Day 6 (2023-01-13)
+
+- Thoughtful content
+  - Samantha - [Measuring a bowler’s pace in a matter of seconds | Speed Guns | Radar Principle | Wicket to Wicket](https://www.youtube.com/watch?v=kcr26gZAulg)
+- Objects and functions
+
+### Day 7 (2023-01-17)
+
+- Thoughtful content
+  - Rachel - [What is color? - Colm Kelleher](https://www.youtube.com/watch?v=UZ5UGnU7oOI)
+- Code a soundboard - live coding
+
+### Day 8 (2023-01-)
+
 ---
 
 edit this doc on [Dillinger.io](https://dillinger.io) and save to [GitHub](https://github.com)

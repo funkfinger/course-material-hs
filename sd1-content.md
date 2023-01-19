@@ -36,13 +36,30 @@
   - Kather [What Does Sound Look Like? | SKUNK BEAR](https://youtu.be/px3oVGXr4mo)
 - Anatomy of drum loop - [ANATOMY OF A DRUM BEAT](https://shedthemusic.com/anatomy-of-a-drum-beat-1)
 - GarageBand
-  - Software Intrument
+  - Software Instrument
 
 ### Day 5 (2023-01-13)
 
 - Thoughtful content...
   - Xavi [METRO BOOMIN | Kicks and Basslines](https://youtu.be/7HgV0uyHwt0)
 - Critiques - what are they? How do they work? Critique something I make... (need to make something)
+
+### Day 6 (2023-01-18)
+
+- Thoughtful content
+
+  - Hunter [The Making Of Drake's "Passionfruit" With Nana Rogues | Deconstructed](https://youtu.be/cgS8eocf4DQ)
+
+- Talk about BPM - [tap bpm](beatsperminuteonline.com)
+  - DJs mix songs in similar BPM range
+
+### Day 7 (2023-01-)
+
+- Thoughtful content
+
+  - Ellie
+
+- Critique
 
 ---
 
