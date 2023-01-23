@@ -53,13 +53,19 @@
 - Talk about BPM - [tap bpm](beatsperminuteonline.com)
   - DJs mix songs in similar BPM range
 
-### Day 7 (2023-01-)
+### Day 7 (2023-01-19)
 
 - Thoughtful content
 
-  - Ellie
+  - Ellie [The Making Of Kid Cudi‘s “Pursuit Of Happiness” With E.VAX Of Ratatat | Deconstructed](https://www.youtube.com/watch?v=SftSleFVYhE)
 
-- Critique
+- 1/2 class critique
+
+### Day 8 (2023-01-23)
+
+- Thoughtful content
+  - ??? [???](???)
+- 1/2 class critique
 
 ---
 

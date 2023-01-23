@@ -340,6 +340,16 @@ class Wiggle {
 
 ### Day 8 (2023-01-)
 
+- Thoughtful content
+  - ????[???](???)
+- Code a soundboard - live coding
+
+### Day 9 (2023-01-)
+
+- Thougtful content
+  - ???? [???](???)
+- Finish coding a soundboard - live coding
+
 ---
 
 edit this doc on [Dillinger.io](https://dillinger.io) and save to [GitHub](https://github.com)

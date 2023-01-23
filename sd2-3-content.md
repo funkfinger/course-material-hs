@@ -38,13 +38,21 @@
 
 - Work on personal projects
 
-### Day 7 (2023-01)
+### Day 7 (2023-01-19)
 
 - Thoughtful content
-  - Blake -
+  - Blake - [What Makes This Song Great? Ep.12 Fleetwood Mac (new)](https://youtu.be/4ylXt4DsB24)
 - 1/2 class critique
+- Work on personal projects
 
-### Day 8 ()
+### Day 8 (2023-01-23)
+
+- Thoughtful content
+
+  - Alex []()
+
+- 1/2 class critique
+- Work on personal projects
 
 - DJ mixing
   - BPM, bars, measures, etc...

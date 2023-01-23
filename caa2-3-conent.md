@@ -35,13 +35,26 @@
 
 ### Day 6 (2023-01-17)
 
-- Thoughtful - Oliver
+- Thoughtful
+  - Oliver - Neural Network in 5 minutes
 - Work on personal projects
 
-### Day 7 (2023-01)
+### Day 7 (2023-01-19)
 
-- Thoughtful content - Jack
--
+- Thoughtful content
+  - Will - [Elon Musk MOST SHOCKING INTERVIEW With AI!](https://youtu.be/dUhvvoVtpVE)
+  - Shankar - [Welcome to DeepMind: Embarking on one of the greatest adventures in scientific history](https://youtu.be/b6e8CCPp2Kc)
+- Work on personal projects
+
+### Day 8 (2023-01)
+
+- Critique - Oliver, Nathan, Ridge
+
+### Day 9 (2023-01-)
+
+- Thoughtful content
+  - Sonia []()
+- Critique - Shankar, Jack, Will, Sonia, Patrog
 
 ---
 
