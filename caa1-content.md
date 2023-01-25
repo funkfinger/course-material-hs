@@ -338,16 +338,13 @@ class Wiggle {
   - Rachel - [What is color? - Colm Kelleher](https://www.youtube.com/watch?v=UZ5UGnU7oOI)
 - Code a soundboard - live coding
 
-### Day 8 (2023-01-)
+### Day 8 (2023-01-20)
 
-- Thoughtful content
-  - ????[???](???)
 - Code a soundboard - live coding
 
-### Day 9 (2023-01-)
+### Day 9 (2023-01-24)
 
-- Thougtful content
-  - ???? [???](???)
+- Thoughtful content - Clemente [AWS + NFL: Nothing Matters More | Amazon Web Services](https://youtu.be/csykudKP2T4)
 - Finish coding a soundboard - live coding
 
 ---

@@ -59,13 +59,17 @@
 
   - Ellie [The Making Of Kid Cudi‘s “Pursuit Of Happiness” With E.VAX Of Ratatat | Deconstructed](https://www.youtube.com/watch?v=SftSleFVYhE)
 
-- 1/2 class critique
+- 1/2 class critique - Sarah, David, Emanuel Ethan, Sarah, Sophie, Kather
 
 ### Day 8 (2023-01-23)
 
 - Thoughtful content
   - ??? [???](???)
-- 1/2 class critique
+- 1/2 class critique -
+
+### Day 9 (2023-01-25)
+
+- Thoughtful content - Sarah
 
 ---
 

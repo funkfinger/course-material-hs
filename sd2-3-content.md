@@ -42,17 +42,29 @@
 
 - Thoughtful content
   - Blake - [What Makes This Song Great? Ep.12 Fleetwood Mac (new)](https://youtu.be/4ylXt4DsB24)
-- 1/2 class critique
+- 1/2 class critique - Sam, Blake, Nick, Ridge, Mateo, Evangeline (to do later)
 - Work on personal projects
 
 ### Day 8 (2023-01-23)
 
 - Thoughtful content
-
-  - Alex []()
-
-- 1/2 class critique
+  - Alex [How Tame Impala Produces a Song | Artist Analysis S1E7](https://youtu.be/bCBj5hC1_rA)
+- 1/2 class critique Dylan, Harry, Mia, Evangeline, Ari
 - Work on personal projects
+
+---
+
+### Day 9 (2023-01-25)
+
+- Thoughtful content
+  - Mateo - [The Golden Ratio and Fibonacci in Music (feat. Be Smart)](https://youtu.be/9mozmHgg9Sk)
+  - 1/3 class critique - Alex, Gabe, Carter, Logan
+
+---
+
+### Day 10 (2023-01-)
+
+- Thoughtful content - Gabe []()
 
 - DJ mixing
   - BPM, bars, measures, etc...

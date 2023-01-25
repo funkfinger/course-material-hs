@@ -46,15 +46,19 @@
   - Shankar - [Welcome to DeepMind: Embarking on one of the greatest adventures in scientific history](https://youtu.be/b6e8CCPp2Kc)
 - Work on personal projects
 
-### Day 8 (2023-01)
+### Day 8 (2023-01-23)
 
 - Critique - Oliver, Nathan, Ridge
 
-### Day 9 (2023-01-)
+### Day 9 (2023-01-24)
 
 - Thoughtful content
-  - Sonia []()
+  - Sonia [mirror pixel video]()
 - Critique - Shankar, Jack, Will, Sonia, Patrog
+
+### Day 10 (2023-01-)
+
+- Thoughtful content - []()
 
 ---
 
