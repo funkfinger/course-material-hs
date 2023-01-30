@@ -53,12 +53,21 @@
 ### Day 9 (2023-01-24)
 
 - Thoughtful content
-  - Sonia [mirror pixel video]()
+  - Sonia [How This Guy Makes Amazing Mechanical Mirrors | Obsessed | WIRED](https://youtu.be/kV8v2GKC8WA)
 - Critique - Shankar, Jack, Will, Sonia, Patrog
 
-### Day 10 (2023-01-)
+### Day 10 (2023-01-26)
 
-- Thoughtful content - []()
+- Personal project work with guidance
+
+### Day 11 (2023-01-30)
+
+- Thoughtful content - Jack - []()
+- Personal project work
+
+### Day 12 (2023-02-)
+
+- Thoughtful content - Jack - []()
 
 ---
 

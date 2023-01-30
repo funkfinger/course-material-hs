@@ -63,13 +63,28 @@
 
 ### Day 8 (2023-01-23)
 
-- Thoughtful content
-  - ??? [???](???)
 - 1/2 class critique -
 
 ### Day 9 (2023-01-25)
 
-- Thoughtful content - Sarah
+- Thoughtful content
+  - Sarah [The Making Of “Wakanda” With Ludwig Göransson | Presented By Marvel Studio’s Black Panther](https://youtu.be/fcO5klPyfX4)
+- Introduce VCV Rack
+- DAW free-play
+
+### Day 10 (2023-01-27)
+
+- Thoughtful content - Austin [What Is Echolocation? | Earth Unplugged](https://www.youtube.com/watch?v=K-zrBaIt-38)
+- Introduce **Listen to an album** assignment
+
+### Day 11 (2023-01-30)
+
+- Thoughtful content - Ethan []()
+- Listen to segments from listen to an album assignment and discuss
+
+### Day 12 (2023-02)
+
+- Thoughtful content - ??? []()
 
 ---
 

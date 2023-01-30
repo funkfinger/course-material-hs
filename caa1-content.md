@@ -347,6 +347,11 @@ class Wiggle {
 - Thoughtful content - Clemente [AWS + NFL: Nothing Matters More | Amazon Web Services](https://youtu.be/csykudKP2T4)
 - Finish coding a soundboard - live coding
 
+### Day 10 (2023-01-)
+
+- Thoughtful content - Ahmed [How will AI change the world?](https://youtu.be/RzkD_rTEBYs)
+- Work on personal projects - some students went to watch sports
+
 ---
 
 edit this doc on [Dillinger.io](https://dillinger.io) and save to [GitHub](https://github.com)

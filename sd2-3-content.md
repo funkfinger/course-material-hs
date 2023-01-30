@@ -62,9 +62,19 @@
 
 ---
 
-### Day 10 (2023-01-)
+### Day 10 (2023-01-26)
 
-- Thoughtful content - Gabe []()
+- Thoughtful content - Gabe [How Sound Is Used To Create Suspense In Horror Movies | Movies Insider](https://youtu.be/1BQvCCB-PiA)
+
+---
+
+### Day 11 (2023-01-30)
+
+- Thoughtful content - Harry - [Rhythm Roulette: Just Blaze (Live From The Sprite Corner)](https://www.youtube.com/watch?v=wQ7rkIppxPM)
+
+### Day 12 (2023-02)
+
+- Thoughtful content - Mia?
 
 - DJ mixing
   - BPM, bars, measures, etc...
