@@ -79,12 +79,12 @@
 
 ### Day 11 (2023-01-30)
 
-- Thoughtful content - Ethan []()
+- Thoughtful content - Ethan [How Do Noise Canceling Headphones Work?](https://youtu.be/VIi04uD8LtY)
 - Listen to segments from listen to an album assignment and discuss
 
-### Day 12 (2023-02)
+### Day 12 (2023-02-01)
 
-- Thoughtful content - ??? []()
+- Thoughtful content - ??? Jake - [Jake]()
 
 ---
 

@@ -352,6 +352,8 @@ class Wiggle {
 - Thoughtful content - Ahmed [How will AI change the world?](https://youtu.be/RzkD_rTEBYs)
 - Work on personal projects - some students went to watch sports
 
+### Day 11 (2023-01-31)
+
 ---
 
 edit this doc on [Dillinger.io](https://dillinger.io) and save to [GitHub](https://github.com)

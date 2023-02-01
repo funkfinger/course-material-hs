@@ -72,9 +72,11 @@
 
 - Thoughtful content - Harry - [Rhythm Roulette: Just Blaze (Live From The Sprite Corner)](https://www.youtube.com/watch?v=wQ7rkIppxPM)
 
-### Day 12 (2023-02)
+### Day 12 (2023-02-01)
 
-- Thoughtful content - Mia?
+- Thoughtful content - Mia [The Recipe Of A Hit Song | Noah Askin | TEDxINSEADSingapore](https://youtu.be/R3UnZBpcF1o)
+
+### Day 13
 
 - DJ mixing
   - BPM, bars, measures, etc...
