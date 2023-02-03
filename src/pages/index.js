@@ -16,6 +16,12 @@ const IndexPage = () => {
           </a>
         </li>
       </ul>
+      <h1>Code Examples</h1>
+      <ul>
+        <li>
+          <a href="code/object-1/index.html">Object 1</a>
+        </li>
+      </ul>
     </main>
   );
 };

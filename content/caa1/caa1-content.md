@@ -354,6 +354,8 @@ class Wiggle {
 
 ### Day 11 (2023-01-31)
 
+- Thoughtful content - []()
+
 ---
 
 edit this doc on [Dillinger.io](https://dillinger.io) and save to [GitHub](https://github.com)

@@ -84,7 +84,12 @@
 
 ### Day 12 (2023-02-01)
 
-- Thoughtful content - ??? Jake - [Jake]()
+- Thoughtful content - Jake - [How The Sounds In "Halo" Are Made | Movies Insider | Insider
+  ](https://youtu.be/AjpZEzP-I2Q)
+
+### Day 13 (2023-02)
+
+- Thoughtful content - Remy - []()
 
 ---
 

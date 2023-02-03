@@ -76,7 +76,15 @@
 
 - Thoughtful content - Mia [The Recipe Of A Hit Song | Noah Askin | TEDxINSEADSingapore](https://youtu.be/R3UnZBpcF1o)
 
-### Day 13
+### Day 13 (2023-02-03)
+
+- Thoughtful content - ??? [Evangeline]()
+
+### Day 14 (2023-02-)
+
+- Thoughtful content - ??? [Evangeline]()
+
+### Day 15 (2023-02)
 
 - DJ mixing
   - BPM, bars, measures, etc...

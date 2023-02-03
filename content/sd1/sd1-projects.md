@@ -1,0 +1,18 @@
+- Kather - thinking about it
+  - still thinking
+- Xavi - group project with Hunter - sports podcast
+  - now also with Remy & Jake
+- Hunter - group project with Xavi - sports podcast
+  - now also with Remy & Jake
+- Jake - beat with ad-libs on top
+  - now sports podcast with Xavi, Hunter, Remy & Jake
+- Remy - sports podcast with Xavi, Hunter, Remy & Jake
+- Ellie - making original song - maybe remix existing song - stems
+  - remix a older song (60s)
+- Sarah - thinking about it - maybe Audacity, record, guitar - recreate a song
+  - using found sounds
+- Ethan - break down existing music - podcast-ish
+- making a google doc with ideas
+- Emanuel - remix song
+- David - Podcast with Austin
+- Austin - Podcast with David
