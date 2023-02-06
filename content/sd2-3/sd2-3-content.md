@@ -1,3 +1,9 @@
+---
+type: course
+title: Sound Design 1 Course Content
+semester: Spring 2023
+---
+
 # Sound Design 2/3
 
 ### Day 1 (2023-01-04)✅
