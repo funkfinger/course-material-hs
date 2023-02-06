@@ -1,18 +1,24 @@
+---
+type: course
+title: Sound Design 2 / 3 Course Content
+semester: Spring 2023
+---
+
 # Sound Design 1
 
-### Day 1 (2023-01-04)✅
+### Day 1 (2023-01-04) ✅
 
 - Introduction Slides: _link goes here_
 - Elf - [Elf recut as a Thriller - Trailer Mix](https://www.youtube.com/watch?v=EkwdYSn3Uws)
 
-### Day 2✅
+### Day 2 ✅
 
 - What is sound slides - [link goes here]()
   - also see this https://docs.google.com/presentation/d/1pOHfV9QXbs_UeKcLC3XYw0TXikO6c9sZiUBQQkSNA1I/edit?usp=sharing
 - AI & autotune in music - [How Auto-Tune DESTROYED Popular Music](https://youtu.be/6IV29YNTH3M)
 - Audacity
 
-### Day 3 (2023-01-06)✅
+### Day 3 (2023-01-06) ✅
 
 - Thoughtful content - Timbaland techniques - [3 Techniques Timbaland Uses In His Beats](https://www.youtube.com/watch?v=CiHc05Izy8U&t=1s)
 - Samples to beats part 1 - field recording of samples
@@ -20,7 +26,7 @@
 
 > Audacity was older version - needed updating. Also FFMPEG libraries needed to be installed in order to get audio from phones to computer.
 
-### Day 4 (2023-01-09)✅
+### Day 4 (2023-01-09) ✅
 
 - Thoughtful content...
   - Baqer - [The sonic boom problem - Katerina Kaouri](https://www.youtube.com/watch?v=JO4_VHM69oI)
@@ -87,9 +93,14 @@
 - Thoughtful content - Jake - [How The Sounds In "Halo" Are Made | Movies Insider | Insider
   ](https://youtu.be/AjpZEzP-I2Q)
 
-### Day 13 (2023-02)
+### Day 13 (2023-02-3)
 
-- Thoughtful content - Remy - []()
+- Thoughtful content - Remy - [How Sound Works (In Rooms)](https://youtu.be/JPYt10zrclQ)
+- Ringtone project introduction
+
+### Day 14 (2023-02-)
+
+- Thoughtful content - David - []()
 
 ---
 

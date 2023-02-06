@@ -1,3 +1,9 @@
+---
+type: course
+title: Course Content for Coding as Art 1
+semester: 2023 Spring
+---
+
 # Coding as Art 1
 
 ### Day 1 (2023-01-03)✅
@@ -355,6 +361,16 @@ class Wiggle {
 ### Day 11 (2023-01-31)
 
 - Thoughtful content - []()
+- live coding object example
+
+### Day 12 (2023-02-03)
+
+- Thoughtful content - Dilan - [How the NFL's Digital Athlete uses AI to reduce concussions in American Football](https://youtu.be/D-EK7CO0oFo)
+- Color assignment
+
+### Day 13 (2023-02-)
+
+- Thoughtful content - Deven - []()
 
 ---
 

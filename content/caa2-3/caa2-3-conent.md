@@ -1,3 +1,9 @@
+---
+type: course
+title: Course Content for Coding as Art 2 / 3
+semester: 2023 Spring
+---
+
 # Coding as Art 2/3
 
 ### Day 1 (2023-01-03)✅
@@ -62,12 +68,26 @@
 
 ### Day 11 (2023-01-30)
 
-- Thoughtful content - Jack - []()
 - Personal project work
 
-### Day 12 (2023-02-)
+### Day 12 (2023-02-01)
 
-- Thoughtful content - Jack - []()
+- Personal project work
+
+### Day 12 (2023-02-02)
+
+- Thoughtful content - Jack - [Giant Mousetrap powered Car](https://youtu.be/Wen6VQS6NG4)
+- Personal project work
+
+### Day 13 (2023-02-06)
+
+- Thoughtful content - Nathan - [Why Supercomputers Are A Vital Tool In The Fight Against COVID-19 | Forbes](https://youtu.be/n2Jdi8VcdyY)
+- Personal project work
+
+### Day 14 (2023-02)
+
+- Thoughtful content - Shanker - []()
+- Personal project work
 
 ---
 
