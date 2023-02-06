@@ -1,3 +1,9 @@
+---
+type: projects
+title: Coding as Art 2 / 3 - Personal Projects
+semester: 2023 Spring
+---
+
 # Projects
 
 - Shankar- game development - player movement in Godot

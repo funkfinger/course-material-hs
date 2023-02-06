@@ -1,3 +1,9 @@
+---
+type: projects
+title: Sound Design 1 - Personal Projects
+semester: 2023 Spring
+---
+
 - Kather - thinking about it
   - still thinking
 - Xavi - group project with Hunter - sports podcast
