@@ -93,14 +93,20 @@ semester: Spring 2023
 - Thoughtful content - Jake - [How The Sounds In "Halo" Are Made | Movies Insider | Insider
   ](https://youtu.be/AjpZEzP-I2Q)
 
-### Day 13 (2023-02-3)
+### Day 13 (2023-02-03)
 
 - Thoughtful content - Remy - [How Sound Works (In Rooms)](https://youtu.be/JPYt10zrclQ)
 - Ringtone project introduction
 
-### Day 14 (2023-02-)
+### Day 14 (2023-02-07)
 
-- Thoughtful content - David - []()
+- Thoughtful content - David - [How 'The Mandalorian' Score Found The New 'Star Wars' Sound](https://youtu.be/aQIcZbzr9Wk)
+- Ringtone project introduction
+
+### Day 15 (2023-02-08)
+
+- Thoughtful content - Hunter or Jake - []()
+- Review ringtones
 
 ---
 
