@@ -105,8 +105,30 @@ semester: Spring 2023
 
 ### Day 15 (2023-02-08)
 
-- Thoughtful content - Hunter or Jake - []()
+- Thoughtful content - Jake - [CYMATICS: Science Vs. Music - Nigel Stanford](https://www.youtube.com/watch?v=Q3oItpVa9fs)
 - Review ringtones
+
+### Day 16 (2023-02-10)
+
+- Thoughtful content - Hunter [The Making Of A Boogie Wit Da Hoodie's "Drowning" With Jahaan Sweet | Deconstructed](https://youtu.be/EBa3XLf-dd0)
+- Review ringtones
+- Introduction - make an instrument / sound maker...
+
+  - Make an instrument and demonstrate it to the class. Explore what makes sound, what makes the sound's characteristics change. What enhances the sound? What detracts?
+  - Bring materials you find at home to school so you can work on your instrument in class.
+  - Below are some videos that my help inspire you:
+    - 72 HOMEMADE INSTRUMENTS IN 7 MINUTES - https://youtu.be/0TPkDPJmoA8
+    - Make the Simplest Kalimba Ever - https://youtu.be/SVO4La1_KL0
+    - How to make a piano from popsicle sticks that actually sounds good - https://youtu.be/TgUXP63yWkc
+    - BONUS: Turning a broken PC speaker into a microphone! - https://www.youtube.com/watch?v=49fQBaEwYt4&t=283s
+    - I made an instrument to play Popcorn acoustic cover - https://www.youtube.com/watch?v=FDE0JuAlktc
+
+### Day 17 (2023-02-14)
+
+- Thoughtful content - Emanuele []()
+- Make an instrument
+
+### Day 18 (2023-02)
 
 ---
 
