@@ -15,6 +15,7 @@ semester: 2023 Spring
 - Mateo - original track - recorded guitar - backing synth from logic
 - Alex - sampling - random found sounds?
 - Blake - music for the podcast - (or 2 found songs that stand on their own individually, but work together)
+  - second project - lyrical quilt
 - Nick - Jazz track
 - podcast gang:
   - 5 episodes each individual creates one episode

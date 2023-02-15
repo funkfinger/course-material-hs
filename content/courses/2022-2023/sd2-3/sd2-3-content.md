@@ -84,13 +84,30 @@ semester: Spring 2023
 
 ### Day 13 (2023-02-03)
 
-- Thoughtful content - ??? [Evangeline]()
-
 ### Day 14 (2023-02-)
 
-- Thoughtful content - ??? [Evangeline]()
+- Thoughtful content - Evangeline [10 Powerful Chord Progressions Every Songwriter Should Know](https://www.youtube.com/watch?v=eVteycbJUsw)
 
-### Day 15 (2023-02)
+### Day 15 (2023-02-10)
+
+- Thoughtful content - Blake [Rhythm Roulette: Kaelin Ellis | Mass Appeal](https://youtu.be/P0410fmYIAE)
+- Personal project work
+
+### Day 16 (2023-02-14)
+
+- Thoughtful content - Ari []()
+- Watched and discussed the Super Bowl half time show - Rihanna
+
+### Day 17 (2023-02-15)
+
+- Thoughtful content - Ari [They Had To See This | Harry Mack Guerrilla Bars 30 London Pt. 2](https://youtu.be/vBSXqHQadWA)
+- You need to come back and check in before you leave!
+
+### Day 18 (2023-02)
+
+- Thoughtful content - [Nick]()
+
+### Day 19 (2023-02)
 
 - DJ mixing
   - BPM, bars, measures, etc...

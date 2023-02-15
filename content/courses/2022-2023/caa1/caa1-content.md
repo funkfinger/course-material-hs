@@ -368,9 +368,22 @@ class Wiggle {
 - Thoughtful content - Dilan - [How the NFL's Digital Athlete uses AI to reduce concussions in American Football](https://youtu.be/D-EK7CO0oFo)
 - Color assignment
 
-### Day 13 (2023-02-)
+### Day 13 (2023-02-09)
 
-- Thoughtful content - Deven - []()
+- Thoughtful content - ?? Deven - [robot soccer]()
+- Linear Interpolation (Lerp)
+
+### Day 14 (2023-02-13)
+
+- Thoughtful content - Ben
+- Vectors
+
+### Day 15 (2023-02-14)
+
+- Thoughtful content - Ben
+- More vectors...
+
+### Day 15 (2023-02-)
 
 ---
 
