@@ -380,10 +380,15 @@ class Wiggle {
 
 ### Day 15 (2023-02-14)
 
-- Thoughtful content - Ben
-- More vectors...
+- Hearts for Valentines day
 
-### Day 15 (2023-02-)
+### Day 15 (2023-02-16)
+
+- Thoughtful content - Ben [Can AI like ChatGPT, Bard think for itself?](https://youtu.be/xuyOe2i-InI)
+
+### Day 16 (2023-02)
+
+- Thoughtful Content - Ryan []()
 
 ---
 

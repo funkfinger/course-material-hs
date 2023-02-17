@@ -125,10 +125,17 @@ semester: Spring 2023
 
 ### Day 17 (2023-02-14)
 
-- Thoughtful content - Emanuele []()
 - Make an instrument
 
-### Day 18 (2023-02)
+### Day 18 (2023-02-16)
+
+- Thoughtful content - Emanuele [The Making Of Childish Gambino's "Redbone" With Ludwig Göransson | Deconstructed](https://youtu.be/lGKlIJsz7bM)
+- make an instrument
+
+### Day 19 (2023-02-)
+
+- Thoughtful content Kather []()
+- review instruments
 
 ---
 
