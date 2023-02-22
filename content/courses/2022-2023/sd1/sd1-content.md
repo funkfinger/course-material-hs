@@ -132,10 +132,19 @@ semester: Spring 2023
 - Thoughtful content - Emanuele [The Making Of Childish Gambino's "Redbone" With Ludwig Göransson | Deconstructed](https://youtu.be/lGKlIJsz7bM)
 - make an instrument
 
-### Day 19 (2023-02-)
+### Day 19 (2023-02-17)
 
-- Thoughtful content Kather []()
+- Thoughtful content Kather - [Fascinating Facts About Sound](https://youtu.be/cygWoYhkWes)
 - review instruments
+
+### Day 20 (2023-02-)
+
+- Thoughtful content Jay [432 Hz? You Miiiight Want To Check Your Sources](https://youtu.be/Q3LVijzZAe4)
+- Use sampling engine in Garage Band with sampled instrument sound
+
+### Day 20 (2023-02-)
+
+- Thoughtful content David []()
 
 ---
 

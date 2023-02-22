@@ -107,10 +107,14 @@ semester: Spring 2023
 
 - Thoughtful content - Nick - [Panning Music: How to Pan Tracks for a Wider Mix | LANDR Mix Tips #3](https://youtu.be/xT1tQgqBWyU)
 
-### Day 19 (2023-02)
+### Day 19 (2023-02-22)
 
 - Thoughtful content - Logan [The Most Popular Song Ever (that nobody will admit)](https://youtu.be/lOtA5Mqmv-Q)
 - Project check in critique
+
+### Day 20 (2023-02)
+
+- Thoughtful content - Dylan []()
 
 - DJ mixing
   - BPM, bars, measures, etc...

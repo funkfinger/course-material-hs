@@ -386,9 +386,14 @@ class Wiggle {
 
 - Thoughtful content - Ben [Can AI like ChatGPT, Bard think for itself?](https://youtu.be/xuyOe2i-InI)
 
+### Day 16 (2023-02-21)
+
+- Thoughtful Content - Ryan [The Simplest Sorting Algorithm (You’ve Never Heard Of)](https://youtu.be/_W0yUJlscRA)
+- Image manipulation code along
+
 ### Day 16 (2023-02)
 
-- Thoughtful Content - Ryan []()
+- Thoughtful Content - ??? []()
 
 ---
 

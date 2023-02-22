@@ -105,11 +105,15 @@ semester: 2023 Spring
 
 - Thoughtful content - Patrog []()
 - personal project work
-
-### Day 17 (2023-02)
-
-- Thoughtful content - Patrog []()
 - critique Jack
+
+### Day 17 (2023-02-22)
+
+- Thoughtful content - Patrog [The secrets of Apple Lightning - Part 1](https://youtu.be/p5tMaWsuGk0)
+
+### Day 18 (2023-02)
+
+- Thoughtful content - ??? []()
 
 ---
 
