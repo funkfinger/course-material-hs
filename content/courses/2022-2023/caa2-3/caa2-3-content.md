@@ -113,7 +113,25 @@ semester: 2023 Spring
 
 ### Day 18 (2023-02)
 
-- Thoughtful content - ??? []()
+- Thoughtful content - Jay [GOOGOL COUNTER - A Huge Electronic Counter That Wont Turn Off In My Lifetime](https://youtu.be/xu9Wid465o8)
+
+### Day 19 (2023-03)
+
+- Arts Walk!!
+- Thoughtful content - Nathan [Quantum Computers]()
+
+### Day 20 (2023-03-03)
+
+- Thoughtful content - Jay [AI learns to play snake using Genetic Algorithm and Deep learning](https://youtu.be/3bhP7zulFfY)
+- personal project work
+
+### Day 21 (2023-03-06)
+
+- Thoughtful content - Patrog []()
+
+### Day 22 (2023-03-)
+
+- Thoughtful content - Patrog []()
 
 ---
 

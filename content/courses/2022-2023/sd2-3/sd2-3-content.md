@@ -112,9 +112,26 @@ semester: Spring 2023
 - Thoughtful content - Logan [The Most Popular Song Ever (that nobody will admit)](https://youtu.be/lOtA5Mqmv-Q)
 - Project check in critique
 
-### Day 20 (2023-02)
+### Day 20 (2023-02-24)
 
-- Thoughtful content - Dylan []()
+- Thoughtful content - Dylan [This Is Your Brain On Music - How Music Benefits The Brain (animated)](https://youtu.be/kZJ8BfEu-P8)
+
+### Day 21 (2023-02-27)
+
+- Thoughtful content - Sam [The Making Of Drake's "Passionfruit" With Nana Rogues | Deconstructed
+  ](https://youtu.be/cgS8eocf4DQ)
+- Arts Walk!!
+- Personal projects
+
+### Day 22 (2023-02)
+
+- Thoughtful content - Carter []()
+
+### Day 23 (2023-03-03)
+
+- Thoughtful content - Jay [De La Soul - The Magic Number (Official Lyric Video)](https://youtu.be/pxkOWjZAPLs)
+- Personal Project
+- Discuss what to share at Art Walk
 
 - DJ mixing
   - BPM, bars, measures, etc...

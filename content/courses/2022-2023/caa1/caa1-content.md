@@ -391,9 +391,29 @@ class Wiggle {
 - Thoughtful Content - Ryan [The Simplest Sorting Algorithm (You’ve Never Heard Of)](https://youtu.be/_W0yUJlscRA)
 - Image manipulation code along
 
+### Day 16 (2023-02-23)
+
+- Thoughtful Content - Aila [Is Your Phone Listening To You?](https://youtu.be/NwTmHNt-IG8)
+- Perlin noise code along
+
 ### Day 16 (2023-02)
 
-- Thoughtful Content - ??? []()
+- Thoughtful Content - Samantha [Do Those Glasses Really Fix Colorblindness?](https://www.youtube.com/watch?v=BrEyOkNRzGI)
+
+### Day 17 (2023-03-02)
+
+- Arts Walk!!
+- Interest in Coding as Art II?
+
+### Day 18 (2023-03-06)
+
+- Thoughtful content - Jay []()
+- Code along?
+
+### Day 19 (20230-03
+
+- Thoughtful content - Clemente []()
+- Flow Field Code-A-Long
 
 ---
 
