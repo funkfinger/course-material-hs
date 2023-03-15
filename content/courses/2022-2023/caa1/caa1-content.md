@@ -410,10 +410,18 @@ class Wiggle {
 - Thoughtful content - Jay []()
 - Code along?
 
-### Day 19 (20230-03
+### Day 19 (20230-03-)
 
 - Thoughtful content - Clemente []()
 - Flow Field Code-A-Long
+
+### Day 20 (2023-03-09)
+
+- Thoughtful content - Jay [Smoking algorithm]()
+
+### Day 21 (2023-03-)
+
+- Thoughtful content - []()
 
 ---
 

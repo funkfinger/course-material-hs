@@ -145,6 +145,7 @@ semester: Spring 2023
 ### Day 20 (2023-02-)
 
 - Thoughtful content David [How Music Was Made On Super Nintendo](https://youtu.be/jvIzIAgRWV0)
+- soundtrack audio project
 
 ### Day 21 (2023-02-28)
 
@@ -152,10 +153,22 @@ semester: Spring 2023
 - Thoughtful content Ellie [What is Sound? The Fundamental Science Behind Sound
   ](https://youtu.be/24yESm63tSY)
 - Interest in Sound Design II?
+- Work on soundtrack audio project
 
 ### Day 22 (2023-03-03)
 
 - Thoughtful content - Jay [De La Soul - The Magic Number (Official Lyric Video)](https://youtu.be/pxkOWjZAPLs)
+- Work on soundtrack audio project
+
+### Day 23 (2023-03-07)
+
+- Thoughtful content - Emanuele [Making of X](blocked)
+- Work on soundtrack audio project
+
+### Day 24 (2023-03-10)
+
+- Thoughtful content - XXX []()
+-
 
 ---
 

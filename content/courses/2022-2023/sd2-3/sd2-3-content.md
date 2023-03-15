@@ -133,6 +133,21 @@ semester: Spring 2023
 - Personal Project
 - Discuss what to share at Art Walk
 
+### Day 24 (2023-03-07)
+
+- Thoughtful content - Jay [I use presets and that's okay.](https://youtu.be/0e9lJ9L3UeQ)
+
+### Day 25 (2023-03-08)
+
+- Thoughtful content - Blake [The Making Of Internet Money's "Lemonade" | Deconstructed](https://youtu.be/tztjhSCu6nc)
+-
+
+### Day 26 (2023-03-)
+
+- Thoughtful content - Aarush - ["Panda" Desiigna Reads All The Lyrics]()
+
+### Day 27 (2023-03-)
+
 - DJ mixing
   - BPM, bars, measures, etc...
   - intros and outros

@@ -129,9 +129,15 @@ semester: 2023 Spring
 
 - Thoughtful content - Patrog []()
 
-### Day 22 (2023-03-)
+### Day 22 (2023-03-08)
 
-- Thoughtful content - Patrog []()
+- Thoughtful content - Jay [Smoking: Generalizing the Rainbow Smoke algorithm](https://youtu.be/dVQDYne8Bkc)
+- Independent Work
+- React with Nathan
+
+### Day 23 (2023-03-)
+
+- Thoughtful content - Jay [Using an Out-of-Control Car to Calculate π.](https://youtu.be/_ZbUyS2IRMo)
 
 ---
 
