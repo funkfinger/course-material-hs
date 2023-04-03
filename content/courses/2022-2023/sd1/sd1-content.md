@@ -170,6 +170,11 @@ semester: Spring 2023
 - Thoughtful content - XXX []()
 -
 
+### Day XX (2023-04-03)
+
+- Thoughtful content - Jay [Çifteli: This microtonal instrument changed the way I think about music
+  ]()
+
 ---
 
 edit this doc on [Dillinger.io](https://dillinger.io) and save to [GitHub](https://github.com)
