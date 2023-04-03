@@ -423,6 +423,16 @@ class Wiggle {
 
 - Thoughtful content - []()
 
+### Day ?? (2023-04-03)
+
+- Thoughtful content Jay [Modular Isometric Pixel Art | Tutorial](https://youtu.be/YN7X0NfxjPc)
+- Array project review
+
+### Day ?? (2023-04-05)
+
+- Thoughtful content - Ahmed []()
+- Array project due
+
 ---
 
 edit this doc on [Dillinger.io](https://dillinger.io) and save to [GitHub](https://github.com)

@@ -7,6 +7,7 @@ semester: 2023 Spring
 - Kather - thinking about it
   - still thinking
   - maybe work with Sam, Harry
+  - planning on scoring a video
 - Xavi - group project with Hunter - sports podcast
   - now also with Remy & Jake
   - now without Remy and Jake ???
@@ -21,16 +22,24 @@ semester: 2023 Spring
   - remix a older song (60s)
   - now working on lo-fi moody
   - New York, New York
+  - may pick another song
 - Sarah - thinking about it - maybe Audacity, record, guitar - recreate a song
   - using found sounds
   - wants to record guitar
+  - wants Patrog to play bass
 - Ethan - break down existing music - podcast-ish
   - got clips - audio, need to mix together
   - keep moving forward...
+  - show a song at arts walk
+  - working on song with self-made sample
 - making a google doc with ideas
 - Emanuel - remix song
   - looking for songs to mix together - look at BPM
+  - remix - moving forward without knowing if it's going to work
+  - suggested a podcast if it outcome isn't what he expects.
 - David - Podcast with Austin
   - Mandolorian
+  - Take an animation and do voices and audio
 - Austin - Podcast with David
   - Mandolorian
+  - Take an animation and do voices and audio
