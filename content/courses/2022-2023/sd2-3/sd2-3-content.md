@@ -148,6 +148,17 @@ semester: Spring 2023
 
 ### Day 27 (2023-03-)
 
+### Day XX (2023-04-06)
+
+- Thoughtful content - Dolphin Bois Spotify Drop
+
+### Day XX (2023-04-10)
+
+- Thoughtful content - Mia [David Gilmour Style Lead Tone With Basic Pedals](https://youtu.be/HrMj7p0HdC0)
+- Assign "What you're presenting at Arts Walk" assignment
+
+### Day XX (2023-04-11)
+
 - DJ mixing
   - BPM, bars, measures, etc...
   - intros and outros

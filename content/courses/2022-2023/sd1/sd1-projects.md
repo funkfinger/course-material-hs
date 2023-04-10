@@ -8,38 +8,56 @@ semester: 2023 Spring
   - still thinking
   - maybe work with Sam, Harry
   - planning on scoring a video
+  -
 - Xavi - group project with Hunter - sports podcast
   - now also with Remy & Jake
   - now without Remy and Jake ???
+  - more episodes
+  - making a beat
+  - Haiku - working on it
 - Hunter - group project with Xavi - sports podcast
   - now also with Remy & Jake
   - now without Remy and Jake ???
+  - Haiku - confused - ask me if theres issues
 - Jake - beat with ad-libs on top
   - now sports podcast with Xavi, Hunter, Remy & Jake
+  - beat and lyrics
+  - Haiku - have the poem
 - Remy - sports podcast with Xavi, Hunter, Remy & Jake
   - sports podcast - raw audio merge
+  - beat and lyrics
 - Ellie - making original song - maybe remix existing song - stems
   - remix a older song (60s)
   - now working on lo-fi moody
   - New York, New York
   - may pick another song
+  - Haiku - explained
+  - cutting the beats into smaller pieces
 - Sarah - thinking about it - maybe Audacity, record, guitar - recreate a song
   - using found sounds
   - wants to record guitar
   - wants Patrog to play bass
+  - wants to learn how to do sound effects
+  - wants to learn Logic
 - Ethan - break down existing music - podcast-ish
   - got clips - audio, need to mix together
   - keep moving forward...
   - show a song at arts walk
   - working on song with self-made sample
-- making a google doc with ideas
+  - Haiku - already working on it
+  - personal project is called "Great"
+  - making a google doc with ideas
 - Emanuel - remix song
   - looking for songs to mix together - look at BPM
   - remix - moving forward without knowing if it's going to work
   - suggested a podcast if it outcome isn't what he expects.
+  - starting over from scratch - temp doesn't match up
+  - haiku - not started yet
 - David - Podcast with Austin
   - Mandolorian
   - Take an animation and do voices and audio
+  - TV show / movie overdub
 - Austin - Podcast with David
   - Mandolorian
   - Take an animation and do voices and audio
+  - TV show / movie overdub

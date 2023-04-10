@@ -172,8 +172,13 @@ semester: Spring 2023
 
 ### Day XX (2023-04-03)
 
-- Thoughtful content - Jay [Çifteli: This microtonal instrument changed the way I think about music
-  ]()
+- Thoughtful content - Jay [Çifteli: This microtonal instrument changed the way I think about music]()
+
+### Day XX (2023-04-04)
+
+- Thoughtful content ????
+
+### Day XX (2023-04-04)
 
 ---
 
