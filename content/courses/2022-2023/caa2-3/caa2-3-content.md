@@ -139,6 +139,19 @@ semester: 2023 Spring
 
 - Thoughtful content - Jay [Using an Out-of-Control Car to Calculate π.](https://youtu.be/_ZbUyS2IRMo)
 
+### Day XX (2023-04-11)
+
+- Thoughtful content - Jay [Superpositions, Sudoku, the Wave Function Collapse algorithm.](https://youtu.be/2SuvO4Gi7uY)
+
+### Day XX (2023-04-13)
+
+- Thoughtful content - Will - [Why Unreal Engine 5.1 is a Huge Deal](https://youtu.be/FUGqzE6Je5c)
+- Personal project work
+
+### Day XX (2023-04-)
+
+- Thoughtful content - Ridge : [Plugging MV #17 A Simple & Effective Lighting System | In The Darkest Corner of The Room](https://youtu.be/cGWF3FmP2Tk)
+
 ---
 
 edit this doc on [Dillinger.io](https://dillinger.io) and save to [GitHub](https://github.com)

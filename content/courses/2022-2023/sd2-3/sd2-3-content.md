@@ -157,7 +157,10 @@ semester: Spring 2023
 - Thoughtful content - Mia [David Gilmour Style Lead Tone With Basic Pedals](https://youtu.be/HrMj7p0HdC0)
 - Assign "What you're presenting at Arts Walk" assignment
 
-### Day XX (2023-04-11)
+### Day XX (2023-04-13)
+
+- Thoughtful content - [The legend of Lionel Messi | An emotional tribute to the GOAT](https://youtu.be/SBavZPxz_bY)
+- Personal project work
 
 - DJ mixing
   - BPM, bars, measures, etc...

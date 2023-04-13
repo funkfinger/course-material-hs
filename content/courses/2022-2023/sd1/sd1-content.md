@@ -180,6 +180,15 @@ semester: Spring 2023
 
 ### Day XX (2023-04-04)
 
+### Day XX (2023-04-12)
+
+- Personal project work
+
+### Day XX (2023-04-13)
+
+- Thoughtful content - Austin [The Magic of Making Sound](https://youtu.be/UO3N_PRIgX0)
+- Haiku Project Review
+
 ---
 
 edit this doc on [Dillinger.io](https://dillinger.io) and save to [GitHub](https://github.com)
