@@ -433,6 +433,13 @@ class Wiggle {
 - Thoughtful content - Ahmed []()
 - Array project due
 
----
+### Day ?? (2023-04-14)
+
+- Thoughtful content - ??? []()
+
+### 2023-04-18
+
+- Thoughtful content - Clemente
+- ***
 
 edit this doc on [Dillinger.io](https://dillinger.io) and save to [GitHub](https://github.com)

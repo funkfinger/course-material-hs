@@ -189,6 +189,15 @@ semester: Spring 2023
 - Thoughtful content - Austin [The Magic of Making Sound](https://youtu.be/UO3N_PRIgX0)
 - Haiku Project Review
 
+### (2023-04-24)
+
+- Thoughtful content - Jay [The Lofi Magic of VHS Audio](https://youtu.be/OHoTzs3mtM8)
+- Arts Walk project work
+
+### (2023-04-26)
+
+- Thoughtful content - David []()
+
 ---
 
 edit this doc on [Dillinger.io](https://dillinger.io) and save to [GitHub](https://github.com)

@@ -148,9 +148,23 @@ semester: 2023 Spring
 - Thoughtful content - Will - [Why Unreal Engine 5.1 is a Huge Deal](https://youtu.be/FUGqzE6Je5c)
 - Personal project work
 
-### Day XX (2023-04-)
+### Day XX (2023-04-18)
 
 - Thoughtful content - Ridge : [Plugging MV #17 A Simple & Effective Lighting System | In The Darkest Corner of The Room](https://youtu.be/cGWF3FmP2Tk)
+
+### 2023-04-??
+
+- Thoughtful content - Will []()
+
+### 2023-04-24
+
+- Thoughtful content - Jay - Mechanical Integrator Video
+- Arts Walk project work
+
+### 2023-04-26
+
+- Thoughtful content - Oliver [Giving Personality to Procedural Animations using Math](https://youtu.be/KPoeNZZ6H4s)
+- Arts Walk project work
 
 ---
 

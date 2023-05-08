@@ -162,6 +162,16 @@ semester: Spring 2023
 - Thoughtful content - [The legend of Lionel Messi | An emotional tribute to the GOAT](https://youtu.be/SBavZPxz_bY)
 - Personal project work
 
+### (2023-04-24)
+
+- Thoughtful content - Jay [The Lofi Magic of VHS Audio](https://youtu.be/OHoTzs3mtM8)
+- Arts Walk project work
+
+### (2023-04-26)
+
+- Thoughtful content - Mateo, Ridge, Alex - Dolphin Bois track
+- Arts Walk project work
+
 - DJ mixing
   - BPM, bars, measures, etc...
   - intros and outros

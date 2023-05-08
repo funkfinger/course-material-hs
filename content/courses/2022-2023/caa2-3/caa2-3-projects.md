@@ -23,6 +23,7 @@ semester: 2023 Spring
 - Ridge - learn basic RPG Maker - make a story with RPG Maker - use some self-made sound / sprites
   - moving forward with RPG Maker - passive and active dialog
 - Patrog - learn basic RPG Maker - make a story with RPG Maker - use some self-made sound / sprites
+  - matrix visuals
 - Oliver - neural network research
   - have componentrs but having issues
   - display a drawing project that idenifies
