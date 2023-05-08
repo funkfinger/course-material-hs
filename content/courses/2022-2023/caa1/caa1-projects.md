@@ -12,7 +12,7 @@ semester: 2023 Spring
   - https://editor.p5js.org/ahmed.alsaedi/sketches/nY28QjydS
 - Dilan - interactive game - pick your own adventure style - possibly zork-ish
   - React - NextJS - three.js - going to work on personal computer
-  - https://editor.p5js.org/samantha_daitch/sketches/f7qhWO1xm
+  - https://big-d-artswalk.netlify.app/
 - Ben - character movement with WASD
   - chess board - chess game
   - https://editor.p5js.org/b.dubs/sketches/j3ClYg85m
@@ -35,3 +35,4 @@ semester: 2023 Spring
 - Samantha - interactive colors with movement
   - moving objects - hearts dropping
   - https://editor.p5js.org/samantha_daitch/sketches/f7qhWO1xm
+  - https://editor.p5js.org/samantha_daitch/sketches/Xc2Sn04Rl
