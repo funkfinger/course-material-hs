@@ -439,7 +439,12 @@ class Wiggle {
 
 ### 2023-04-18
 
-- Thoughtful content - Clemente
-- ***
+.
+.
+.
+
+### 2023-05-08
+
+- Review of Arts Walk submissions
 
 edit this doc on [Dillinger.io](https://dillinger.io) and save to [GitHub](https://github.com)

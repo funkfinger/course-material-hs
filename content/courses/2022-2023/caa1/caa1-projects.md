@@ -32,6 +32,7 @@ semester: 2023 Spring
   - make a game -
   - https://editor.p5js.org/Ailakai/sketches/MMipgRSwl
   - https://editor.p5js.org/Ailakai/sketches/UzHZS4cI9
+  - https://editor.p5js.org/Ailakai/sketches/SxrhN6GHn
 - Samantha - interactive colors with movement
   - moving objects - hearts dropping
   - https://editor.p5js.org/samantha_daitch/sketches/f7qhWO1xm
